@@ -25,7 +25,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
+    ("Twitter", "https://twitter.com/lgylym"),
     ("Another social link", "#"),
 )
 
